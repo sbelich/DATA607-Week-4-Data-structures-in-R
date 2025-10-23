@@ -1,0 +1,21 @@
+﻿No.,Ticker,Company,Index,Sector,Industry,Div. Gr. 1Y,Div. Gr. 3Y,Div. Gr. 5Y,Perf Year,Perf 3Y,Perf 5Y
+1,A,Agilent Technologies Inc,S&P 500,Healthcare,Diagnostics & Research,4.44%,6.42%,7.33%,5.07%,11.73%,38.50%
+2,AAPL,Apple Inc,"DJIA, NDX, S&P 500",Technology,Consumer Electronics,4.26%,4.86%,5.50%,9.98%,81.48%,114.11%
+3,ABBV,Abbvie Inc,S&P 500,Healthcare,Drug Manufacturers - General,5.01%,5.81%,7.46%,21.08%,58.35%,168.31%
+4,ABNB,Airbnb Inc,"NDX, S&P 500",Consumer Cyclical,Travel Services,-,-,-,-6.56%,9.44%,-
+5,ABT,Abbott Laboratories,S&P 500,Healthcare,Medical Devices,7.69%,7.17%,11.16%,7.17%,23.60%,19.22%
+6,ACGL,Arch Capital Group Ltd,S&P 500,Financial,Insurance - Diversified,-,-,-,-14.85%,92.22%,199.18%
+7,ACN,Accenture plc,S&P 500,Technology,Information Technology Services,14.73%,15.12%,13.09%,-33.89%,-4.99%,8.90%
+8,ADBE,Adobe Inc,"NDX, S&P 500",Technology,Software - Application,-,-,-,-28.45%,20.64%,-29.34%
+9,ADI,Analog Devices Inc,"NDX, S&P 500",Technology,Semiconductors,8.38%,10.40%,11.51%,5.27%,72.77%,93.87%
+10,ADM,Archer Daniels Midland Co,S&P 500,Consumer Defensive,Farm Products,11.11%,10.56%,7.39%,9.77%,-27.81%,23.97%
+11,ADP,Automatic Data Processing Inc,"NDX, S&P 500",Technology,Software - Application,10.46%,14.12%,11.33%,-2.85%,21.83%,92.65%
+12,ADSK,Autodesk Inc,"NDX, S&P 500",Technology,Software - Application,-,-,-,5.17%,55.08%,22.27%
+13,AEE,Ameren Corp,S&P 500,Utilities,Utilities - Regulated Electric,6.35%,6.80%,6.90%,18.62%,35.61%,29.86%
+14,AEP,American Electric Power Company Inc,"NDX, S&P 500",Utilities,Utilities - Regulated Electric,5.93%,5.97%,5.67%,16.47%,37.88%,30.97%
+15,AES,AES Corp,S&P 500,Utilities,Utilities - Diversified,2.99%,4.19%,4.64%,-18.20%,-40.16%,-28.05%
+16,AFL,Aflac Inc,S&P 500,Financial,Insurance - Life,19.05%,14.86%,13.12%,-5.81%,80.87%,189.53%
+17,AIG,American International Group Inc,S&P 500,Financial,Insurance - Diversified,11.43%,6.82%,4.04%,0.50%,52.60%,163.48%
+18,AIZ,Assurant Inc,S&P 500,Financial,Insurance - Property & Casualty,4.96%,3.63%,4.02%,6.42%,38.71%,70.70%
+19,AJG,Arthur J. Gallagher & Co,S&P 500,Financial,Insurance Brokers,9.09%,7.72%,6.89%,-2.15%,61.66%,161.69%
+20,AKAM,Akamai Technologies Inc,S&P 500,Technology,Software - Infrastructure,-,-,-,-29.96%,-9.49%,-31.49%

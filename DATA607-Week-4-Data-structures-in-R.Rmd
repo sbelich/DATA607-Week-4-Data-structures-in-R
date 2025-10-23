@@ -1,0 +1,43 @@
+---
+title: "DATA607-Week-4-Data-structures-in-R"
+author: "Sergio Belich"
+date: "`r Sys.Date()`"
+output: html_document
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+options(width = 150)
+```
+
+## Reading Untidy Data File
+
+### Step 1: Reading CSV file into 'data'
+
+Find (or create) an example of an untidy dataset—for example, a “wide” table of descriptive data taken from an HTML page.  You should also describe some kind of analysis that might be performed on the data.  You should "not" tidy, transform, or analyze the data here ...
+
+```{r load-data, message=FALSE, warning=FALSE}
+data <- read_csv("SPS Project 4 Untidy Data.csv")
+```
+
+### Step 2: Displaying 'data'
+
+First 20 rows of SP500 stocks, <br>
+taken from finviz.com, created as custom list. [Free password needed]:
+```{r display-data}
+print(data, width = Inf)
+```
+
+### Step 3: Displaying 'data' structure
+```{r}
+glimpse(data)
+```
+
+### Step 4: Explain why is data untidy
+
+**1** The 'Index' column can have multiple values, <br>
+**2** The 'Industry' column has values that can be separated into sub-categories, <br>
+**3** The 'Dividends Growth...' and 'Performance...' columns:
+       A) Can have missing data, or data does not exist yet, and 
+       B) could be (separately) condensed into 1 column from 3:
+          1 Year, 3 Years, and 5 Years.
