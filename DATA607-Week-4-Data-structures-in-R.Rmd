@@ -39,5 +39,5 @@ glimpse(data)
 **2** The 'Industry' column has values that can be separated into sub-categories, <br>
 **3** The 'Dividends Growth...' and 'Performance...' columns:
        A) Can have missing data, or data does not exist yet, and 
-       B) could be (separately) condensed into 1 column from 3:
-          1 Year, 3 Years, and 5 Years.
+       B) could be (separately) condensed into 1 column from 3 
+          (1 Year, 3 Years, and 5 Years) creating a taller table data set.
